@@ -4,7 +4,7 @@ function Header() {
     return (
         <header style={headerStyle}>
             <h1>Employee Directory</h1>
-            <p style={ subStyle }>Click on carrots to filter by heading or use the search box to narrow your results</p>
+            <p style={ subStyle }>Search for an Employee by First or Last name below</p>
         </header>
     )
 }

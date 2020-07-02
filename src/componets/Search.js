@@ -6,7 +6,7 @@ function Search(props) {
             <div className="form-group">
                 <input className="form-control" 
                     type="text"
-                    placeholder="Search for an Employee here"
+                    placeholder="Search..."
                     {...props}
                     ></input>
 
